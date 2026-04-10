@@ -38,7 +38,7 @@ pip install -e .
   Note: Change the value of `max_pixels` in `preprocessor_config.json` to `16032016`.
 
 * Download data to `./data/`
-
+  For data preparation, please refer to [FlightGPT](https://github.com/Uavln/FlightGPT).
 
 ### 📦 Project Structure
 ├── model_weight/ # Directory for model weights (download manually)  
